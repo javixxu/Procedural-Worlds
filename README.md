@@ -103,7 +103,6 @@ La Herramienta constara de varios Generadores:
 
 ## Referencias
 Los recursos de terceros utilizados son de uso público:
-- Comida: https://assetstore.unity.com/packages/3d/props/food/root-vegetables-set-93392 y https://assetstore.unity.com/packages/3d/props/food/low-poly-fruit-pickups-98135
 - Arboles y rocas: https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
 - API Unity
 - Libro de Milinton
